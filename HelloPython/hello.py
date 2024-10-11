@@ -8,3 +8,5 @@ print(fibo(20))
 
 a = [3,1,4,9,2,0]
 print(quick_sort(a))
+print()
+print()
